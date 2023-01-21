@@ -1,4 +1,4 @@
-Projet fictif réalisé en écolde d'ingénieur avec 3 objectifs :
+Projet fictif réalisé en école d'ingénieur avec 3 objectifs :
 - Construire un outil de management de la qualité
 - Se perfectionner en Excel et VBA
 - Se Confronter à une application industrielle
