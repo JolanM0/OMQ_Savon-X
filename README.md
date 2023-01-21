@@ -13,3 +13,6 @@ Cet outil a été développé sous Excel. Il permet aux dirigeants de Savon'X en
 - Qualité : Gestion de la R&D et de la RSE, et de la Sécurité
 
 Cet Excel a été développé pour être utilisé comme un logiciel. Les fonctions d'Excel ont disparu. Afin d'utiliser cet outil il est nécessaire de se connecter avec le mot de passe "a".
+
+
+Projet réalisé à l'école des Mines d'Alès en 2017
