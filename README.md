@@ -1,8 +1,7 @@
 Projet fictif réalisé en écolde d'ingénieur avec 3 objectifs :
-
-    Construire un outil de management de la qualité
-    Se perfectionner en Excel et VBA
-    Se Confronter à une application industrielle
+- Construire un outil de management de la qualité
+- Se perfectionner en Excel et VBA
+- Se Confronter à une application industrielle
 
 Cet outil a été développé sous Excel. Il permet aux dirigeants de Savon'X entreprise de fabrication de Savon de piloter les différents secteurs :
 
